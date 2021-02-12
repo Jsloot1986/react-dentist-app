@@ -1,0 +1,31 @@
+.appointment-container{
+    display: grid;
+    grid-template-columns: 400px 400px;
+    grid-template-rows: repeat(8, 100px)
+}
+
+.container1, .container2, .container3, .container4, .container5, .container6{
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+}
+.container3{
+    margin-bottom: 20px;
+}
+.container5{
+    .label{
+        margin: 10px;
+    }
+}
+
+.label{
+    color: white;
+    width: 200px;
+}
+
+.submitButton{
+    width: 200px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+}

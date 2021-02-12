@@ -991,34 +991,17 @@ const names = [
   },
 ];
 
-const getRandomName = () => {
-  const person = names[Math.floor(Math.random() * 250)];
-  return `${person.name} ${person.surname}`;
-};
+const getRandomInteger = (from, to) => from + Math.floor(Math.random() * to);
 
-const getRandomTime = () => {
-  let hour;
-  while (true) {
-    hour = Math.floor(Math.random() * 24);
-    if (hour > 7 && hour < 19) {
-      return hour;
-    }
-  }
-};
+const generateNItems = (num, func) => Array(num).fill(0).map(func);
 
-const getRandomDay = () => Math.floor(Math.random() * 28) + 1;
+const getRandomItem = arr => arr[Math.floor(Math.random() * arr.length)];
 
-const generateRandomAppointment = () => ({
-  day: getRandomDay(),
-  time: getRandomTime(),
-  patient: getRandomName(),
-  dentist: getRandomName(),
-  assistant: getRandomName(),
-});
+const getRandomTime = () => getRandomInteger(8, 19);
 
-const generateRandomAppointments = num =>
-  Array(num)
-    .fill(0)
-    .map(_ => generateRandomAppointment());
+const getRandomDay = () => getRandomInteger(1, 28);
 
-export default generateRandomAppointments;
+const getRandomId = () => getRandomInteger(1, 10000)
+
+
+export {getRandomDay, getRandomTime, getRandomItem, getRandomId, getRandomInteger, generateNItems};
