@@ -63,9 +63,9 @@ class AppointmentMan extends Component {
             let isIll = false;
             this.state.patients.forEach((element) => {
                 if (element.name.toUpperCase() === patientName.toUpperCase() &&
-                    element.surName.toUpperCase() === patientSurName.toUpperCase()) {
+                    element.surname.toUpperCase() === patientSurName.toUpperCase()) {
                     patientName = element.name;
-                    patientSurName = element.surName;
+                    patientSurName = element.surname;
                     if (element.isSick === true) isIll = true;
                     patientRegister = true;
                 }
