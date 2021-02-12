@@ -1,0 +1,37 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css");
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.title {
+  color: limegreen;
+  margin-left: 200px;
+}
+
+i {
+  color: white;
+  font-size: 20px;
+  margin-left: 150px;
+}
+
+.sub-title {
+  color: white;
+  font-size: 20px;
+  margin-left: 200px;
+}
+
+.container p {
+  color: white;
+  -webkit-transform: translate(-200px, 200px);
+          transform: translate(-200px, 200px);
+}
+/*# sourceMappingURL=home.css.map */

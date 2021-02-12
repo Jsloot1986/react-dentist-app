@@ -1,0 +1,62 @@
+.dayview li {
+  list-style-type: none;
+  background-color: lightyellow;
+}
+
+.dayview .appointment {
+  border: 2px solid grey;
+  width: 60%;
+  margin-bottom: 20px;
+}
+
+.dayview .appointmentRed {
+  border: 2px solid grey;
+  width: 60%;
+  height: 180px;
+  margin-bottom: 20px;
+  background-color: red;
+}
+
+.dayview .time,
+.dayview .patient {
+  height: 30px;
+  padding: 10px;
+}
+
+.dayview .time {
+  float: right;
+  background-color: aquamarine;
+}
+
+.dayview .patient {
+  font-weight: bold;
+  background-color: deepskyblue;
+}
+
+.dayview .dentist,
+.dayview .assistant {
+  padding: 10px;
+}
+
+.dayview .button {
+  height: 30px;
+  width: 100px;
+  margin: 10px;
+  margin-bottom: 30px;
+}
+
+.dayview .containerButton {
+  height: 40px;
+  width: 300px;
+}
+
+.dayquery {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.inputcontainer {
+  width: 450px;
+}
+/*# sourceMappingURL=Day.css.map */

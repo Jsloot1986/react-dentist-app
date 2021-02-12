@@ -1,0 +1,47 @@
+.sickContaniner {
+  width: 600px;
+}
+
+.typeOfPerson {
+  width: 200px;
+}
+
+.sickRegisterName {
+  width: 200px;
+}
+
+.sickRegisterSurName {
+  margin-left: 50px;
+  margin-right: 20px;
+  width: 100px;
+}
+
+.sickRegister {
+  width: 200px;
+}
+
+.sickRegister2 {
+  width: 60px;
+  margin-left: 20px;
+}
+
+.sick {
+  margin-top: 5px;
+}
+
+#name,
+#surName {
+  width: 200px;
+}
+
+#sick {
+  width: 50px;
+}
+
+.submitButton {
+  font-size: 20px;
+  background-color: dodgerblue;
+  width: 200px;
+  height: 80px;
+}
+/*# sourceMappingURL=sick.css.map */

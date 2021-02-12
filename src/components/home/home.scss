@@ -1,0 +1,30 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css');
+
+.container{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.title{
+    color: limegreen;
+    margin-left: 200px;
+}
+i{
+    color: white;
+    font-size: 20px;
+    margin-left: 150px;
+}
+
+.sub-title{
+    color: white;
+    font-size: 20px;
+    margin-left: 200px;
+}
+
+.container p{
+    color: white;
+    transform: translate(-200px, 200px);
+}
