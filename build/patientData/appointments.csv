@@ -1,0 +1,160 @@
+﻿1;1;8;Aad Groen;Anne;;controle
+2;1;9;Harm van der Pol;Anne;;mondhygiene
+3;1;10;Pieter Meijer;Anne;;controle
+4;1;11;Michiel Gerritsen;Anne;Andre;vullen
+5;1;13;Sander van Wijk;Duncan;Andre;vullen
+6;1;14;Olaf de Ruiter;Duncan;Andre;wortelkanaal
+7;1;15;Teun de Wit;Duncan;Andre;vullen
+8;1;16;Tom Schouten;Duncan;;controle
+9;1;17;Mirthe Meijer;Duncan;;controle
+10;2;8;Lisa Kok;Anne;;controle
+11;2;9;Emiel de Vos;Anne;Josje;vullen
+12;2;10;Diewertje van Loon;Anne;;mondhygiene
+13;2;11;Arjan van Vliet;Anne;;mondhygiene
+14;2;13;Femke Meijer;Duncan;Josje;wortelkanaal
+15;2;14;Lonneke Sanders;Duncan;;controle
+16;2;15;Christien Prins;Duncan;Josje;vullen
+17;2;16;Mathijs Mol;Duncan;Josje;wortelkanaal
+18;2;17;Carlijn Bos;Duncan;Josje;vullen
+19;3;8;Eelco van der Meer;Sabine;Andre;vullen
+20;3;9;Willemijn Hofman;Sabine;;controle
+21;3;10;Reinout van der Veen;Sabine;;mondhygiene
+22;3;11;Lotte Hoekstra;Sabine;;controle
+23;3;12;Aart Willems;Sabine;;mondhygiene
+24;3;13;Florus Prins;Joost;Andre;wortelkanaal
+25;3;14;Valentijn Gerritsen;Joost;Andre;vullen
+26;3;15;Paul de Vos;Joost;;controle
+27;3;16;Henk Postma;Joost;Andre;wortelkanaal
+28;3;17;Willemijn van Dijk;Joost;;controle
+29;4;8;Boudewijn van Dijk;Sabine;Josje;vullen
+30;4;9;Jaap de Ruiter;Sabine;;controle
+31;4;10;Floor van Veen;Sabine;;mondhygiene
+32;4;11;Tom de Leeuw;Sabine;;mondhygiene
+33;4;12;Heleen van Loon;Sabine;;mondhygiene
+34;4;13;Luuk Hermans;Joost;Josje;wortelkanaal
+35;4;14;Huib van der Veen;Joost;Josje;vullen
+36;4;15;Valentijn Gerritsen;Joost;Josje;vullen
+37;4;16;Jaap Hoekstra;Joost;;controle
+38;4;17;Mathijs van Dijk;Joost;;controle
+39;4;18;Peter de Koning;Joost;;controle
+40;5;8;Maartje Schouten;Duncan;;controle
+41;5;9;Thomas van Dam;Duncan;Andre;wortelkanaal
+42;5;10;Huib Verhoeven;Duncan;Andre;vullen
+43;5;11;Imke van Dongen;Duncan;Andre;vullen
+44;5;12;Maartje Kramer;Duncan;;controle
+45;5;13;Willemijn van Dongen;Joost;Josje;wortelkanaal
+46;5;14;Daan Timmermans;Joost;;controle
+47;5;15;Tom Huisman;Joost;;controle
+48;5;16;Doortje de Bruijn;Joost;Josje;vullen
+49;5;17;Reinout Hoekstra;Joost;;controle
+50;5;18;Victor de Graaf;Joost;;controle
+51;8;8;Marjan Bakker;Anne;;controle
+52;8;9;Peter de Koning;Anne;;controle
+53;8;10;Diewertje van Loon;Anne;;mondhygiene
+54;8;11;Sander van Wijk;Anne;;mondhygiene
+55;8;12;Thomas van Dam;Anne;;mondhygiene
+56;8;13;Tom Huisman;Duncan;Andre;vullen
+57;8;14;Aad Groen;Duncan;Andre;vullen
+58;8;15;Emiel de Vos;Duncan;Andre;wortelkanaal
+59;8;16;Michiel Gerritsen;Duncan;;controle
+60;8;17;Teun de Wit;Duncan;;controle
+61;8;18;Femke Meijer;Duncan;Andre;vullen
+62;9;8;Christien Prins;Anne;;controle
+63;9;9;Aart Willems;Anne;Josje;vullen
+64;9;10;Harm van der Pol;Anne;;mondhygiene
+65;9;11;Lisa Kok;Anne;;controle
+66;9;12;Arjan van Vliet;Anne;Josje;vullen
+67;9;13;Olaf de Ruiter;Duncan;Josje;wortelkanaal
+68;9;14;Floor van Veen;Duncan;Josje;vullen
+69;9;15;Huib van der Veen;Duncan;;controle
+70;9;16;Jaap Hoekstra;Duncan;;controle
+71;9;17;Tom de Leeuw;Duncan;Josje;wortelkanaal
+72;9;18;Daan Timmermans;Duncan;Josje;vullen
+73;10;8;Doortje de Bruijn;Sabine;Andre;vullen
+74;10;9;Imke van Dongen;Sabine;;controle
+75;10;10;Marjan Bakker;Sabine;;mondhygiene
+76;10;11;Victor de Graaf;Sabine;;mondhygiene
+77;10;12;Willemijn van Dongen;Sabine;;mondhygiene
+78;10;13;Reinout Hoekstra;Joost;Andre;wortelkanaal
+79;10;14;Daan Timmermans;Joost;Andre;vullen
+80;10;15;Reinout van der Veen;Joost;Andre;vullen
+81;10;16;Eelco van der Meer;Joost;;controle
+82;10;17;Aart Willems;Joost;;controle
+83;10;18;Boudewijn van Dijk;Joost;Andre;vullen
+84;11;8;Carlijn Bos;Sabine;Andre;vullen
+85;11;9;Henk Postma;Sabine;;controle
+86;11;10;Jaap de Ruiter;Sabine;;controle
+87;11;11;Paul de Vos;Sabine;;controle
+88;11;12;Carlijn Bos;Sabine;;mondhygiene
+89;11;13;Luuk Hermans;Joost;Josje;wortelkanaal
+90;11;14;Heleen van Loon;Joost;Josje;vullen
+91;11;15;Willemijn van Dijk;Joost;Josje;vullen
+92;11;16;Floor van Veen;Joost;;controle
+93;11;17;Lotte Hoekstra;Joost;;controle
+94;11;18;Florus Prins;Joost;Josje;vullen
+95;12;8;Pieter Meijer;Anne;Andre;vullen
+96;12;9;Mirthe Meijer;Anne;Andre;vullen
+97;12;10;Diewertje van Loon;Anne;;controle
+98;12;11;Olaf de Ruiter;Anne;;controle
+99;12;12;Arjan van Vliet;Sabine;;controle
+100;12;13;Lonneke Sanders;Sabine;;mondhygiene
+101;12;14;Christien Prins;Sabine;;mondhygiene
+102;12;15;Teun de Wit;Sabine;;mondhygiene
+103;15;8;Marjan Bakker;Anne;;mondhygiene
+104;15;9;Victor de Graaf;Anne;;controle
+105;15;10;Aad Groen;Anne;Josje;vullen
+106;15;11;Aart Willems;Anne;;controle
+107;15;12;Luuk Hermans;Duncan;Josje;vullen
+108;15;13;Sander van Wijk;Duncan;Josje;vullen
+109;16;8;Lisa Kok;Duncan;Andre;wortelkanaal
+110;16;9;Mathijs Mol;Duncan;;controle
+111;16;10;Valentijn Gerritsen;Duncan;Andre;vullen
+112;16;11;Heleen van Loon;Duncan;Andre;vullen
+113;16;12;Floor van Veen;Duncan;;controle
+114;17;9;Reinout van der Veen;Sabine;;controle
+115;17;10;Jaap de Ruiter;Sabine;;controle
+116;17;11;Tom Huisman;Sabine;;mondhygiene
+117;17;13;Daan Timmermans;Sabine;;mondhygiene
+118;18;8;Huib Verhoeven;Joost;Josje;wortelkanaal
+119;18;9;Thomas van Dam;Joost;Josje;vullen
+120;18;10;Mathijs van Dijk;Joost;Josje;vullen
+121;18;11;Peter de Koning;Joost;;controle
+122;18;13;Doortje de Bruijn;Duncan;;controle
+123;18;14;Valentijn Gerritsen;Duncan;Andre;wortelkanaal
+124;19;8;Aart Willems;Duncan;Andre;vullen
+125;19;9;Mathijs Mol;Duncan;Andre;vullen
+126;19;10;Diewertje van Loon;Duncan;Andre;wortelkanaal
+127;19;11;Maartje Schouten;Duncan;;controle
+128;19;13;Harm van der Pol;Sabine;;controle
+129;19;14;Sander van Wijk;Sabine;;controle
+130;19;15;Olaf de Ruiter;Sabine;Josje;vullen
+131;22;8;Teun de Wit;Anne;;mondhygiene
+132;22;9;Tom Schouten;Anne;;mondhygiene
+133;22;10;Mirthe Meijer;Anne;;controle
+134;22;11;Emiel de Vos;Anne;Andre;vullen
+135;22;13;Lonneke Sanders;Duncan;Andre;vullen
+136;22;14;Christien Prins;Duncan;Andre;wortelkanaal
+137;23;15;Henk Postma;Duncan;;controle
+138;23;16;Willemijn van Dijk;Duncan;;controle
+139;23;17;Boudewijn van Dijk;Duncan;Andre;vullen
+140;23;18;Jaap de Ruiter;Duncan;;controle
+141;24;8;Floor van Veen;Anne;;controle
+142;24;9;Tom de Leeuw;Anne;;mondhygiene
+143;24;10;Peter de Koning;Anne;;mondhygiene
+144;24;11;Heleen van Loon;Anne;;controle
+145;24;13;Luuk Hermans;Duncan;Josje;vullen
+146;24;14;Maartje Schouten;Duncan;Josje;vullen
+147;24;15;Olaf de Ruiter;Duncan;Josje;wortelkanaal
+148;25;8;Femke Meijer;Sabine;Andre;vullen
+149;25;9;Arjan van Vliet;Sabine;Andre;vullen
+150;25;10;Michiel Gerritsen;Sabine;;controle
+151;25;11;Sander van Wijk;Sabine;;controle
+152;25;13;Emiel de Vos;Joost;;controle
+153;25;14;Christien Prins;Joost;Andre;wortelkanaal
+154;26;8;Tom Schouten;Joost;;controle
+155;26;9;Mathijs Mol;Joost;;controle
+156;26;10;Lisa Kok;Joost;Josje;vullen
+157;26;11;Paul de Vos;Joost;Josje;vullen
+158;26;13;Jaap de Ruiter;Duncan;Josje;vullen
+159;26;14;Heleen van Loon;Duncan;Josje;wortelkanaal
+160;26;15;Marjan Bakker;Duncan;Josje;vullen
